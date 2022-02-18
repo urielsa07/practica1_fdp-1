@@ -1,3 +1,10 @@
 DEFINICIÓN DE ALGORITMOS
 Un algoritmo se denomina como un conjunto ordenado y finito de operaciones simples a través del cual podemos hallar la solución a un problema. 
 Los algoritmos nos permiten ejecutar una acción o resolver un problema mediante una serie de instrucciones definidas, ordenadas y finitas.
+El código se utiliza para indicar a un equipo qué hacer. Antes de escribir código, necesita un algoritmo.
+Un algoritmo es una lista de reglas a seguir para resolver un problema.
+Método y notación en las distintas formas del cálculo.
+El origen de la alabra algoritmo sigue en discusion pero segun la Real Academia de la Lengua Española quizá viene del latin tardío "algobarismus2, y este abreviado del árabe clásico "ḥisābu lḡubār" que se interpreta como 'cálculo mediante cifras arábigas'.
+Existen 4 tipos de algoritmos en informatica, los cuales son: Computacionales, No computacionales, Cualitativos y Cuantitativos.
+Los Algoritmos son: precisos, secuenciales, ordenados, finitos, concretos y definidos
+Todos los algoritmos deben tener un INICIO y un FIN
